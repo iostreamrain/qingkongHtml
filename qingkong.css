@@ -23,3 +23,9 @@ table tr:nth-child(even)
 {
     background: #F5FAFA;
 }
+body{
+    background-color:#5b8a00;
+    margin:0px;
+    padding:0px;
+    color:#c4f762;
+}
